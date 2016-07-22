@@ -1,6 +1,7 @@
 {
 	"ImportPath": "github.com/hashicorp/consul",
 	"GoVersion": "go1.6",
+	"GodepVersion": "v74",
 	"Deps": [
 		{
 			"ImportPath": "github.com/DataDog/datadog-go/statsd",
@@ -28,8 +29,8 @@
 		},
 		{
 			"ImportPath": "github.com/boltdb/bolt",
-			"Comment": "v1.1.0-65-gee4a088",
-			"Rev": "ee4a0888a9abe7eefe5a0992ca4cb06864839873"
+			"Comment": "v1.2.1-13-g5cc10bb",
+			"Rev": "5cc10bbbc5c141029940133bb33c9e969512a698"
 		},
 		{
 			"ImportPath": "github.com/elazarl/go-bindata-assetfs",
